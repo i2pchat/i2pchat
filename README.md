@@ -7,7 +7,7 @@
 
 ## Features
 
- * The communication goes «directly over i2p» from client to client, no server is required.[1] Note: The connections to the so-called «seedless» servers were removed from this project ; see : https://github.com/hypnosis-i2p/i2pchat/issues/40 . —hypn.
+ * The communication goes «directly over i2p» from client to client, no server is required.[1] Note: The connections to the so-called «seedless» servers were removed from this project ; see : https://github.com/nonlin-lin-chaos-order-etc-etal/i2pchat/issues/40 . —hypn.
  
 ## How to run it
 
