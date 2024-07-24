@@ -1,4 +1,9 @@
-# I2P Chat AKA I2P Qt Messenger
+# Pigmy, Big Brother watches for you!
+
+# Be a Free Giant - use a local `i2pchat` app!
+
+
+# I2PChat
 
 ## Screenshots
 
