@@ -2,7 +2,7 @@
 
 # Be a Free Giant - use a local `i2pchat` app!
 
-i2pchat - 1. a lot of fixes needed; 2. https://github.com/vituperative/i2pchat has updated version with many fixes and unknown security level (I've already spotted some security holes at Vituperative's i2pchat and reported some, these were fixed);
+i2pchat - 1. a lot of fixes needed; 2. https://github.com/vituperative/i2pchat has updated version with many fixes and unknown security level (I've already spotted some security holes at Vituperative's i2pchat and reported them, these were fixed);
 
 
 # I2PChat
