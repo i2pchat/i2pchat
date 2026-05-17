@@ -41,15 +41,25 @@ The license of this software is GPLv2.
 ### Build instructions
 
  * Install prerequisites:
+
+At Linux Mint Codename Gigi (or Debian 13(?)), use
+
+```sh
+sudo apt-get install qt5-qmake build-essential libqt5multimedia5 qtmultimedia5-dev libqt5widgets5t64
 ```
+
+At other Debian-based operating systems, try:
+
+```sh
 sudo apt-get install qt5-qmake qt5-default build-essential libqt5multimedia5 qtmultimedia5-dev
 ```
+
  * Run qmake for either release:
-```
+```sh
 qmake I2P-Messenger.pro "CONFIG += release"
 ```
 or for debug:
-```
+```sh
 qmake I2P-Messenger.pro "CONFIG += debug"
 ```
  * And after that,
