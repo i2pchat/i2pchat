@@ -45,13 +45,13 @@ The license of this software is GPLv2.
 At Linux Mint Codename Gigi (or Debian 13(?)), use
 
 ```sh
-sudo apt-get install qt5-qmake build-essential libqt5multimedia5 qtmultimedia5-dev libqt5widgets5t64
+sudo apt update && sudo apt upgrade && sudo apt dist-upgrade && sudo apt-get install qt5-qmake build-essential libqt5multimedia5 qtmultimedia5-dev libqt5widgets5t64
 ```
 
 At other Debian-based operating systems, try:
 
 ```sh
-sudo apt-get install qt5-qmake qt5-default build-essential libqt5multimedia5 qtmultimedia5-dev
+sudo apt update && sudo apt upgrade && sudo apt dist-upgrade && sudo apt-get install qt5-qmake qt5-default build-essential libqt5multimedia5 qtmultimedia5-dev
 ```
 
  * Run qmake for either release:
@@ -64,7 +64,7 @@ qmake I2P-Messenger.pro "CONFIG += debug"
 ```
  * And after that,
 ```
-make -j NUMBER_OF_PROCESSOR_CORES
+make -j `nproc`
 ```
 or simply
 ```
