@@ -89,7 +89,7 @@ http://forum.i2p/viewtopic.php?t=2474
 ## List of relevant repositories (in Russian)
  
 я два репа на гитхабе создал
- * один для антиквариата по части и2п массажника https://github.com/nonlin-lin-chaos-order-etc-etal/I2PQtMessengerLegacy ;
+ * один для антиквариата по части и2п массажника https://github.com/i2pchat/I2PQtMessengerLegacy ;
  * другой для разработки https://github.com/i2pchat/i2pchat .
 
 ## Footnotes
