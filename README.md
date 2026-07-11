@@ -5,7 +5,7 @@
 i2pchat
  1. a lot of fixes needed;
  2. https://github.com/vituperative/i2pchat has updated version with many fixes and unknown security level (Hypnosis had already spotted some security holes at Vituperative's i2pchat and reported them, these were fixed);
- 3. i2pchat by vade AKA i2chat.i2p is a completely different unrelated piece of software
+ 3. i2pchat by vade AKA i2pchat.i2p is a completely different unrelated piece of software
 
 
 # I2PChat
