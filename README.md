@@ -1,6 +1,6 @@
 # Pigmy, Big Brother watches for you!
 
-# Be a Free Giant - use a local `i2pchat` app!
+# Be a Free Giant - use a local `i2pchat` app! Edit the future.
 
 i2pchat
  1. a lot of fixes needed;
